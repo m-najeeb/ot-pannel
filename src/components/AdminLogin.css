@@ -1,0 +1,75 @@
+.admin-container {
+  background: linear-gradient(180deg, #f0f2fd 0%, #fff8f9 100%);
+}
+
+.left-container {
+  width: 40%;
+  background: #f0f2fd;
+}
+
+.right-container {
+  width: 60%;
+  background-color: #fff8f9;
+}
+
+.admin-login {
+  position: absolute;
+  left: 18%;
+  top: 25%;
+  font: 600 30px/36px sans-serif;
+  color: #012e46;
+}
+
+.submit-btn {
+  background-color: #016691;
+  color: #fff;
+  border-radius: 5px;
+  width: 250px;
+  height: 30px;
+  position: absolute;
+  top: 53%;
+  left: 18%;
+  border: none;
+}
+
+.submit-btn:hover {
+  background-color: #025a80;
+}
+
+.password-input,
+.email-input {
+  box-sizing: border-box;
+  width: 250px;
+  height: 30px;
+}
+
+.email-label,
+.password-label {
+  color: #3d3d66;
+}
+
+.email-container {
+  position: absolute;
+  left: 18%;
+  top: 33%;
+}
+
+.password-container {
+  position: absolute;
+  left: 18%;
+  top: 43%;
+}
+
+.right-container img {
+  position: absolute;
+  top: 24%;
+  left: 52%;
+  width: 25%;
+  height: 55%;
+}
+
+.eye-icon {
+  position: absolute;
+  right: 5%;
+  bottom: 5%;
+}

@@ -1,0 +1,43 @@
+.isolation-pt {
+  margin: 0;
+  padding: 0;
+}
+
+.isolation-pt label {
+  background-color: #294e6d;
+  text-align: center;
+  color: white;
+  padding: 5px 0px;
+  border-radius: 5px;
+  margin: 5px 0px;
+  width: 160px;
+}
+
+.isolation-pt input,
+.isolation-pt select {
+  background-color: #d9d9d9;
+  border-radius: 5px;
+  margin: 5px 0px;
+  margin-left: 20px;
+}
+
+.isolation-pt button {
+  background-color: #294e6d;
+  color: white;
+  border-radius: 5px;
+  width: 113px;
+  padding: 5px 0px;
+  text-align: center;
+  margin: 0px 15px;
+}
+
+.isolation-btns {
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 230px;
+}
+
+.isolation-pt button:hover {
+  background-color: #016691;
+  color: #ffffff;
+}

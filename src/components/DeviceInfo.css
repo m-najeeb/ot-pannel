@@ -1,0 +1,44 @@
+.device-info {
+  padding: 0;
+  margin: 0;
+}
+
+.device-info label {
+  background-color: #294e6d;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 5px;
+  margin: 5px 0;
+  width: 160px;
+}
+
+.device-info input,
+.device-info textarea,
+.device-info select {
+  background-color: #d9d9d9;
+  border-radius: 5px;
+  margin: 5px 20px;
+  width: 224px;
+}
+
+.device-info button {
+  background-color: #294e6d;
+  color: #fff;
+  border-radius: 5px;
+  width: 113px;
+  padding: 5px 0px;
+  text-align: center;
+  margin: 0px 15px;
+}
+
+.device-info-btns {
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 300px;
+}
+
+.device-info button:hover {
+  background-color: #016691;
+  color: #fff;
+}

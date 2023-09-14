@@ -1,0 +1,38 @@
+.outlet-device-setting {
+  position: absolute;
+  margin-left: 235px;
+  margin-top: 25px;
+}
+
+.device-setting {
+  margin-left: 254px;
+  margin-top: 138px;
+}
+
+.device-setting-ulist {
+  padding: 20px 0px 0px 0px;
+  list-style-type: none;
+  position: absolute;
+  background-color: #012e46;
+  overflow: auto;
+  border-radius: 20px 0px 0px 20px;
+  height: 60%;
+  width: 186px;
+}
+
+.device-setting-list a {
+  display: block;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.device-setting-list a.active {
+  background-color: #fff;
+  color: #012e46;
+  border-radius: 8px 0px 0px 8px;
+  padding: 2px 0px 2px 11px;
+}
+
+.device-setting-list {
+  padding: 10px 0px 10px 30px;
+}
